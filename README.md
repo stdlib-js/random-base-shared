@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@deno/mod.js';
+import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.0-deno/mod.js';
 ```
 
 #### headerDir
@@ -83,7 +83,7 @@ var dir = headerDir;
 ## Examples
 
 ```javascript
-import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@deno/mod.js';
+import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.0-deno/mod.js';
 
 console.log( headerDir );
 // => <string>
