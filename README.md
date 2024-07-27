@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@esm/index.mjs';
+import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.1-esm/index.mjs';
 ```
 
 #### headerDir
@@ -88,7 +88,7 @@ var dir = headerDir;
 <body>
 <script type="module">
 
-import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@esm/index.mjs';
+import headerDir from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.1-esm/index.mjs';
 
 console.log( headerDir );
 // => <string>
