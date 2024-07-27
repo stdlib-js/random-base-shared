@@ -54,6 +54,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+headerDir = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/random-base-shared/tags). For example,
+
+```javascript
 headerDir = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.1-umd/browser.js' )
 ```
 
@@ -66,7 +71,7 @@ var headerDir = require( 'path/to/vendor/umd/random-base-shared/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -110,7 +115,7 @@ var dir = headerDir;
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-shared@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
