@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-shared",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Common APIs shared across base pseudorandom number generators.",
   "license": "Apache-2.0",
   "author": {
