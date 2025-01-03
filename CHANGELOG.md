@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-01-03)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`3c8a4d5`](https://github.com/stdlib-js/stdlib/commit/3c8a4d5c5d97979206090197ca00f39de3d19f06) - **docs:** update note _(by Athan Reines)_
+-   [`5be9674`](https://github.com/stdlib-js/stdlib/commit/5be9674b6af6402f9c9f4833e31070574a716144) - **style:** update include order _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
