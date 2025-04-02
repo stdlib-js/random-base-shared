@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-03)
+## Unreleased (2025-04-02)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6236](https://github.com/stdlib-js/stdlib/issues/6236)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`a464a60`](https://github.com/stdlib-js/stdlib/commit/a464a60568b819f813aff054ba0c32476192d269) - **chore:** fix EditorConfig lint errors [(#6246)](https://github.com/stdlib-js/stdlib/pull/6246) _(by MANI, Athan Reines)_
 -   [`3c8a4d5`](https://github.com/stdlib-js/stdlib/commit/3c8a4d5c5d97979206090197ca00f39de3d19f06) - **docs:** update note _(by Athan Reines)_
 -   [`5be9674`](https://github.com/stdlib-js/stdlib/commit/5be9674b6af6402f9c9f4833e31070574a716144) - **style:** update include order _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -26,9 +39,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   MANI
 
 </section>
 
